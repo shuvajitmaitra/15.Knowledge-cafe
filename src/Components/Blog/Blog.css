@@ -1,0 +1,9 @@
+.author-image > img {
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  box-shadow: 1px 1px 10px;
+}
+.cover-image {
+  border-radius: 10px;
+}
